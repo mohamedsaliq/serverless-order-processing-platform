@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+
+# Build artifacts
+.aws-sam/
+build/
+dist/
+*.zip
+
+# IDE
+.vscode/
+
+# Local test outputs
+response.json
+tempee.json
