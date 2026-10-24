@@ -22,3 +22,9 @@ dist/
 # Local test outputs
 response.json
 tempee.json
+# Phase 4 local testing artifacts
+dlq-attributes.json
+dlq-test-message.json
+order-key.json
+redrive-attributes.json
+redrive-policy.json
